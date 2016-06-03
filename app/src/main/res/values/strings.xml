@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">WClass</string>
+    <string name="title_main">World Class</string>
+
+    <string name="item_gyms">Список клубов</string>
+    <string name="item_back">Назад</string>
+    <string name="item_profile">Профиль</string>
+    <string name="waiting">Пожайлуста, подождите...</string>
+    <string name="error">Ошибка</string>
+    <string name="loading">Загрузка</string>
+    <string name="warning">Внимание</string>
+    <string name="ok">Ок</string>
+
+    <string name="customer">Покупатель</string>
+    <string name="employee">Сотрудник</string>
+
+
+    <string name="cid">Идентификационный номер:</string>
+    <string name="customerType">Тип:</string>
+    <string name="customerStatus">Статус:</string>
+    <string name="login">Логин:</string>
+    <string name="firstName">Имя:</string>
+    <string name="lastName">Фамилия:</string>
+    <string name="secondName">Второе имя:</string>
+    <string name="birthdayDate">Дата рождения:</string>
+    <string name="phoneNumber">Телефон:</string>
+    <string name="email">Почта:</string>
+    <string name="subscriptionEmail">Подписка по почте:</string>
+    <string name="subscriptionSms">Подписка по смс:</string>
+    <string name="gymId">GYMID:</string>
+    <string name="passwordExpirationDate">Дата окончания действия пароля:</string>
+    <string name="homeAddress">Домашний адрес:</string>
+    <string name="canRecommend">Рекомендации:</string>
+    <string name="managerName">Менеджер:</string>
+    <string name="managerPhoneNumber">Телефон менеджера:</string>
+    <string name="managerEmail">Почта менеджера:</string>
+    <string name="authToken">Токен аутентификации:</string>
+
+    <string name="sheduleId">ID Программы:</string>
+    <string name="sheduleGroup">Группа:</string>
+    <string name="sheduleTime">Время:</string>
+    <string name="sheduleName">Имя:</string>
+    <string name="sheduleDescription">Описание:</string>
+
+    <string name="shedulePlace">Место:</string>
+    <string name="sheduleTrainer">Тренер:</string>
+    <string name="sheduleTrainerId">ID Тренера:</string>
+    <string name="sheduleStudentLevel">Уровень подготовки:</string>
+    <string name="sheduleDuration">Длительность:</string>
+    <string name="shedulePreBooked">Предзаказан:</string>
+    <string name="shedulePrePaid">Предоплачен:</string>
+    <string name="sheduleAgeGroup">Возрастная группа:</string>
+
+</resources>
